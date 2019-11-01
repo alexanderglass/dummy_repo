@@ -1,8 +1,8 @@
 def func1():
-	return 'A'
+	return 'AAA'
 	
 def func2():
-	return 2
+	return 'BBB'
 	
 def func3():
-	return 'C'
+	return 'CCC'
